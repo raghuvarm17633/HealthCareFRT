@@ -4,11 +4,17 @@
 
 ### This web based restaurant application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github and EY.
 
+# Project Link*(GitHub repository URL) : 
+
+https://github.com/raghuvarm17633/HealthCareFRT.git
+
+# Project Link : 
+
+https://kind-sky-0690f6b00.3.azurestaticapps.net/
+http://iamraghuvarma.me/HealthCareFRT
 
 
-Project Link : https://kind-sky-0690f6b00.3.azurestaticapps.net/
-
-Project Demo Video URL : 
+# Project Demo Video URL : 
 
 
 # Industry Type*
