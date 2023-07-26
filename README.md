@@ -10,14 +10,14 @@ https://github.com/raghuvarm17633/HealthCareFRT.git
 
 # Project Link : 
 
-https://kind-sky-0690f6b00.3.azurestaticapps.net/
+https://kind-sky-0690f6b00.3.azurestaticapps.net
 
 # Project Demo URL*
 
 http://iamraghuvarma.me/HealthCareFRT
 
 
-# Project Demo Video URL : 
+# Project Demo Video URL : https://youtu.be/HkORblSStZY
 
 
 # Industry Type*
