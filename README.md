@@ -6,6 +6,11 @@
 
 
 
+Project Link : https://kind-sky-0690f6b00.3.azurestaticapps.net/
+
+Project Demo Video URL : 
+
+
 # Industry Type*
 
 Health
